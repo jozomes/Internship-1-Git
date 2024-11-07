@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jozo\\source\\repos\\krizickruzis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9865FDFD-35DD-4A09-8413-D6C6976BDD23}|krizickruzis\\krizickruzis.csproj|c:\\users\\jozo\\source\\repos\\krizickruzis\\krizickruzis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9865FDFD-35DD-4A09-8413-D6C6976BDD23}|krizickruzis\\krizickruzis.csproj|solutionrelative:krizickruzis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jozo\\source\\repos\\krizickruzis\\krizickruzis\\Program.cs",
+              "RelativeDocumentMoniker": "krizickruzis\\Program.cs",
+              "ToolTip": "C:\\Users\\Jozo\\source\\repos\\krizickruzis\\krizickruzis\\Program.cs",
+              "RelativeToolTip": "krizickruzis\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowFMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:40:31.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
