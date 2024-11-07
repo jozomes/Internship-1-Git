@@ -1,0 +1,14 @@
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\bin\Debug\net8.0\Dijamant.exe
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\bin\Debug\net8.0\Dijamant.deps.json
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\bin\Debug\net8.0\Dijamant.runtimeconfig.json
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\bin\Debug\net8.0\Dijamant.dll
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\bin\Debug\net8.0\Dijamant.pdb
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.AssemblyInfoInputs.cache
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.AssemblyInfo.cs
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.csproj.CoreCompileInputs.cache
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.dll
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\refint\Dijamant.dll
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.pdb
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\Dijamant.genruntimeconfig.cache
+C:\Users\Jozo\source\repos\Dijamant\Dijamant\obj\Debug\net8.0\ref\Dijamant.dll
