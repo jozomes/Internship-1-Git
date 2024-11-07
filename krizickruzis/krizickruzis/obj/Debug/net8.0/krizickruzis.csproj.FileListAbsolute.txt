@@ -1,0 +1,14 @@
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\bin\Debug\net8.0\krizickruzis.exe
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\bin\Debug\net8.0\krizickruzis.deps.json
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\bin\Debug\net8.0\krizickruzis.runtimeconfig.json
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\bin\Debug\net8.0\krizickruzis.dll
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\bin\Debug\net8.0\krizickruzis.pdb
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.AssemblyInfoInputs.cache
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.AssemblyInfo.cs
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.csproj.CoreCompileInputs.cache
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.dll
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\refint\krizickruzis.dll
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.pdb
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\krizickruzis.genruntimeconfig.cache
+C:\Users\Jozo\source\repos\krizickruzis\krizickruzis\obj\Debug\net8.0\ref\krizickruzis.dll
