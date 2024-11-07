@@ -1,0 +1,14 @@
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\bin\Debug\net8.0\Permutaciije.exe
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\bin\Debug\net8.0\Permutaciije.deps.json
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\bin\Debug\net8.0\Permutaciije.runtimeconfig.json
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\bin\Debug\net8.0\Permutaciije.dll
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\bin\Debug\net8.0\Permutaciije.pdb
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.AssemblyInfoInputs.cache
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.AssemblyInfo.cs
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.csproj.CoreCompileInputs.cache
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.dll
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\refint\Permutaciije.dll
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.pdb
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\Permutaciije.genruntimeconfig.cache
+C:\Users\Jozo\source\repos\Permutaciije\Permutaciije\obj\Debug\net8.0\ref\Permutaciije.dll
