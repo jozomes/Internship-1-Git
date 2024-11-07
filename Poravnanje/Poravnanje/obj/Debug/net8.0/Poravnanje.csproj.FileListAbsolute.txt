@@ -1,0 +1,14 @@
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.AssemblyInfoInputs.cache
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.AssemblyInfo.cs
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.csproj.CoreCompileInputs.cache
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\bin\Debug\net8.0\Poravnanje.exe
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\bin\Debug\net8.0\Poravnanje.deps.json
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\bin\Debug\net8.0\Poravnanje.runtimeconfig.json
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\bin\Debug\net8.0\Poravnanje.dll
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\bin\Debug\net8.0\Poravnanje.pdb
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.dll
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\refint\Poravnanje.dll
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.pdb
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\Poravnanje.genruntimeconfig.cache
+C:\Users\Jozo\source\repos\Poravnanje\Poravnanje\obj\Debug\net8.0\ref\Poravnanje.dll
