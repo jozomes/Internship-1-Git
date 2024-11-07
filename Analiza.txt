@@ -1,0 +1,27 @@
+Analiza rezultata:
+
+Kada usporedimo dobivene srednje vrijednosti, očekujemo sljedeće:
+
+Srednje vrijednosti za A: Budući da smo generirali matricu A iz normalne distribucije sa srednjom vrijednosti 50, očekujemo da će i srednje vrijednosti po retcima biti približno 50. Male varijacije su moguće zbog slučajnosti u generiranju brojeva.
+Srednje vrijednosti za B: Slično, s obzirom da je srednja vrijednost za B -50, očekujemo da će i srednje vrijednosti po retcima biti približno -50.
+Srednje vrijednosti za A+B: Kada zbrojimo matrice A i B, elementi u svakom retku će se zbrojiti. S obzirom na to da su srednje vrijednosti za A i B približno 50 i -50, očekujemo da će srednje vrijednosti po retcima matrice A+B biti približno 0.
+Što možemo zaključiti:
+
+Linearnost srednje vrijednosti: Ovaj primjer ilustrira važno svojstvo srednje vrijednosti: srednja vrijednost zbroja dva skupa podataka jednaka je zbroju njihovih srednjih vrijednosti. Drugim riječima, srednja vrijednost je linearni operator.
+Utjecaj parametara distribucije: Promjenom parametara μ i σ normalne distribucije možemo kontrolirati srednju vrijednost i varijancu generiranih podataka.
+Slučajnost: Zbog slučajne prirode generiranja brojeva, postoje male varijacije u srednjim vrijednostima, ali opći trend se slaže s našim očekivanjima.
+Dodatna analiza:
+
+Možemo izračunati i standardne devijacije po retcima kako bismo dobili bolji uvid u raspršenost podataka unutar svakog retka. Također, možemo vizualizirati distribuciju podataka pomoću histograma ili box plotova.
+
+Primjer koda za izračun standardnih devijacija:
+
+Python
+std_dev_A = np.std(A, axis=1)
+std_dev_B = np.std(B, axis=1)
+std_dev_AB = np.std(A + B, axis=1)
+Use code with caution.
+
+Zaključak:
+
+Ovaj jednostavan primjer pokazuje kako možemo koristiti NumPy za generiranje i analizu velikih skupova slučajnih brojeva. Također ilustrira važne statističke koncepte kao što su srednja vrijednost, standardna devijacija i linearnost.
